@@ -32,3 +32,4 @@ while not bidding_finished:
         replit.clear()
 
 
+
